@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#wrapp {
+    position: absolute;
+    width: 640px;
+    height: 480px;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+#uvodni {
+    position: absolute;
+}
+
+#start1 {
+    position: absolute;
+    margin-top: 266px;
+    margin-left:0px;
+    z-index: 2;
+    opacity: 0;
+    cursor: pointer;
+}
+#start1:hover {
+    opacity: 1;
+}
+
+#start2 {
+    position: absolute;
+    margin-top: 266px;
+    margin-left:0px;
+    z-index: 3;
+    transition: .3ms;
+
+}
