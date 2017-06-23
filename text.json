@@ -1,16 +1,13 @@
 {
-    "uvod_cir":
-            [        
-                {
-                "aetos":"ОВО ЈЕ ПРВИ CD ROM О МАНАСТИРУ ХИЛАНДАР, НАЈВЕЋОЈ ДУХОВНОЈ РИЗНИЦИ СРПСКОГ НАРОДА КОЈИ ОТВАРА ПРВУ СТРАНИЦУ ЕЛЕКТРОНСКИХ ИЗДАЊА О СРПСКОМ ДУХОВНОМ НАСЛЕЂУ И СРПСКОЈ КУЛТУРНОЈ БАШТИНИ. ФОНД ЗА ЗАШТИТУ ДУХОВНОГ НАСЛЕЂА - АЕТОС",
-                "autor":"ИСПИСУЈУЋИ ОВУ СТРАНИЦУ, ЖЕЛЕО САМ ДА ПОКАЖЕМ ДА НАШ ДУХОВНИ, КУЛТУРНИ И ВИЗУЕЛНИ ИДЕНТИТЕТ ЈОШ ЖИВИ.  АУТОР"
-                }     
-            ],
-    "uvod_lat":
-            [
-                {
-                "aetos":"OVO JE PRVI CD ROM O MANASTIRU HILANDAR, NAJVEĆOJ DUHOVNOJ RIZNICI SRPSKOG NARODA KOJI OTVARA PRVU STRANICU ELEKTRONSKIH IZDANJA O SRPSKOM DUHOVNOM NASLEĐU I SRPSKOJ KULTURNOJ BAŠTINI. FOND ZA ZAŠTITU DUHOVNOG NASLEĐA - AETOS",
-                "autor":"ISPISUJUĆI OVU STRANICU, ŽELEO SAM DA POKAŽEM DA NAŠ DUHOVNI, KULTURNI I VIZUELNI IDENTITET JOŠ ŽIVI.  AUTOR"
-                }
-            ]        
+	"uvod": [
+		{
+			"cir": ["caetos", "cautor"]
+		},
+		{
+			"lat": ["laetos", "lautor"]
+		},
+		{
+			"ame": ["aaetos"]
+		}
+	]
 }
