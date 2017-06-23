@@ -1,13 +1,11 @@
-{
-	"uvod": [
+[
 		{
-			"cir": ["caetos", "cautor"]
+			"cir": ["uvod", "cautor"]
 		},
 		{
-			"lat": ["laetos", "lautor"]
+			"lat": ["uvod", "lautor"]
 		},
 		{
-			"ame": ["aaetos"]
+			"ame": ["uvod"]
 		}
 	]
-}
