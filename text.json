@@ -1,26 +1,22 @@
-[
-  {
-    "name": "Meowsy",
-    "species" : "cat",
-    "foods": {
-      "likes": ["tuna", "catnip"],
-      "dislikes": ["ham", "zucchini"]
-    }
-  },
-  {
-    "name": "Barky",
-    "species" : "dog",
-    "foods": {
-      "likes": ["bones", "carrots"],
-      "dislikes": ["tuna"]
-    }
-  },
-  {
-    "name": "Purrpaws",
-    "species" : "cat",
-    "foods": {
-      "likes": ["mice"],
-      "dislikes": ["cookies"]
-    }
-  }
+[{"uvodCir": 
+	["ОВО ЈЕ ПРВИ CD ROM О МАНАСТИРУ ХИЛАНДАР, НАЈВЕЋОЈ ДУХОВНОЈ РИЗНИЦИ СРПСКОГ НАРОДА КОЈИ ОТВАРА ПРВУ СТРАНИЦУ ЕЛЕКТРОНСКИХ ИЗДАЊА О СРПСКОМ ДУХОВНОМ НАСЛЕЂУ И СРПСКОЈ КУЛТУРНОЈ БАШТИНИ. ФОНД ЗА ЗАШТИТУ ДУХОВНОГ НАСЛЕЂА - АЕТОС <br> ИСПИСУЈУЋИ ОВУ СТРАНИЦУ, ЖЕЛЕО САМ ДА ПОКАЖЕМ ДА НАШ ДУХОВНИ, КУЛТУРНИ И ВИЗУЕЛНИ ИДЕНТИТЕТ ЈОШ ЖИВИ.  АУТОР"
+	]},
+ {"uvodLat":
+	["OVO JE PRVI CD ROM O MANASTIRU HILANDAR, NAJVEĆOJ DUHOVNOJ RIZNICI SRPSKOG NARODA KOJI OTVARA PRVU STRANICU ELEKTRONSKIH IZDANJA O SRPSKOM DUHOVNOM NASLEĐU I SRPSKOJ KULTURNOJ BAŠTINI.<br> FOND ZA ZAŠTITU DUHOVNOG NASLEĐA - AETOS<br>ISPISUJUĆI OVU STRANICU, ŽELEO SAM DA POKAŽEM DA NAŠ DUHOVNI, KULTURNI I VIZUELNI IDENTITET JOŠ ŽIVI. <br> AUTOR"
+    ]},
+ {"uvodAme":
+    ["THIS IS THE FIRST  CD-ROM  ABOUT THE MONASTERY OF CHILANDAR,  THE MOST VALUABLE SPIRITUAL TREASURY OF THE SERBIAN PEOPLE. THE CD-ROM WITH A TITLE EIGHT  CENTURIES  OF THE  CHILANDAR  MONASTERY OPENS THE FIRST PAGE OF ELECTRONIC SERIES EPRESENTING THE SERBIAN SPIRITUAL HERITAGE AND SERBIAN CULTURAL LEGACY.<br> FUND FOR PROTECTION OF THE SPIRITUAL HERITAGE  -  AETOS <br>BY WRITING THIS PAGE, I WANT TO SHOW THAT OUR SPIRITUAL,CULTURAL  AND VISUAL IDENTITY IS STILL ALIVE. <br>AUTHOR"
+    ]},
+ {"uvodEng": 
+    ["THIS IS THE FIRST CD-ROM  ABOUT THE MONASTERY OF CHILANDAR, THE MOST VALUABLE SPIRITUAL TREASURY OF THE SERBIAN PEOPLE. THE CD-ROM WITH A TITLE EIGHT CENTURIES OF THE CHILANDAR MONASTERY OPENS THE FIRST PAGE OF ELECTRONIC SERIES REPRESENTING THE SERBIAN SPIRITUAL HERITAGE AND SERBIAN CULTURAL LEGACY. <br>FUND FOR PROTECTION OF THE SPIRITUAL HERITAGE  -  AETOS <br>BY WRITING THIS PAGE, I WANT TO SHOW THAT OUR SPIRITUAL, CULTURAL AND VISUAL IDENTITY IS STILL ALIVE. <br>AUTHOR"
+    ]},
+ {"uvodRus":
+    ["ЭТО ПЕРВЫЙ CD ROM О МОНАСТЫРЕ ХИЛАНДАР - ВЕЛИКОЙ ДУХОВНОЙ РИЗНИЦЕ СЕРБСКОГО НАРОДА. CD ROM ХИЛАНДАР ОТКРЫВАЕТ ПЕРВУЮ СТРАНИЦУ ЕЛЕКТРОННЫХ ИЗДАНИЙ О СЕРБСКОМ ДУХОВНОМ И КУЛЬТУРНОМ НАСЛЕДИИ. ЭТОЙ СТРАНИЦЕЙ, МЫ ХОТИМ ПОКАЗАТЬ, ЧТО НАША ДУХОВНАЯ, КУЛЬТУРНАЯ И ВИЗУАЛЬНАЯ ЦЕЛОСТНОСТЬ ЕЩЁ  ЖИВА. <br>ФОНД ЗАЩИТЫ ДУХОВНОГО НАСЛЕДИЯ - АЭТОС<br>ИСПИСУЈУЋИ ОВУ СТРАНИЦУ, ЖЕЛЕО САМ ДА ПОКАЖЕМ ДА НАШ ДУХОВНИ, КУЛТУРНИ И ВИЗУЕЛНИ ИДЕНТИТЕТ ЈОШ ЖИВИ. <br> АУТОР"
+    ]},
+ {"uvodNem":
+    ["Das ist die erste CD-ROM über Chilandar, der größten serbischen Schatzkammer des Geistes. Die CD-ROM Acht Jahrhunderte des Chilandar stellt die erste Seite der elektronischen Veröffentlichungen über das serbische geistige Vermächtnis und Kulturerbe dar. Dieses Blatt ausschreibend zeigen wir, daß unsere geistige, kulturelle und visuelle Identität weiterlebt. <br>Fonds für den Schutz des geistlichen Erbes - Aetos.<br>BY WRITING THIS PAGE, I WANT TO SHOW THAT OUR SPIRITUAL, CULTURAL AND VISUAL IDENTITY IS STILL ALIVE. <br>AUTHOR"
+    ]},
+ {"uvodFra":
+    ["CECI EST LE PREMIER CD ROM SUR LE MONASTERE CHILANDAR, LE PLUS GRAND TRESOR SPIRITUEL DU PEUPLE SERBE, QUI  OUVRE LA PREMIERE PAGE DES EDITIONS ELECTRONIQUES SUR L’HERITAGE SPIRITUEL ET LE PATRIMOINE CULTUREL SERBE. <br>FONDS POUR LA PROTECTION DE L’HERITAGE SPIRITUEL - AETOS.<br>EN ECRIVANT CETTE PAGE, NOUS SOUHAITONS MONTRER QUE NOTRE IDENTITE SPIRITUELLE, CULTURELLE ET VISUELLE VIT TOUJOURS. <br>L'AUTEUR"
+    ]}
 ]
